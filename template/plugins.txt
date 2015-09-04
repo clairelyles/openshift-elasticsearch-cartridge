@@ -59,3 +59,7 @@
 
 ## Uncomment line below to install this plugin
 ## elasticsearch/marvel/latest
+
+kibana-community/kibana3
+kibana-community/kibana4-static
+lmenezes/elasticsearch-kopf
